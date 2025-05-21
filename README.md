@@ -36,12 +36,6 @@ This Image to Video Converter is a web application built using Flask that allows
 - **Storage**: Database storage for images and audio files
 - **Video Processing**: Python libraries for image-to-video conversion
 
-### Architecture
-- RESTful API design
-- Secure database connections
-- Stateless authentication
-- File processing middleware
-
 ## Academic Project
 This application is part of an academic group project. It was developed by a team of students to demonstrate the integration of various technologies such as Flask, MySQL, JWT, and video processing libraries.
 
