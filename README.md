@@ -42,9 +42,6 @@ This Image to Video Converter is a web application built using Flask that allows
 - Stateless authentication
 - File processing middleware
 
-## Deployment
-This app has been deployed on Render. You can access it using the following link: [Image to Video Converter App](#)
-
 ## Academic Project
 This application is part of an academic group project. It was developed by a team of students to demonstrate the integration of various technologies such as Flask, MySQL, JWT, and video processing libraries.
 
